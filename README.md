@@ -1,5 +1,3 @@
-# REDasm-Builds
-
 ## Linux Version [![Linux Status](https://travis-ci.org/REDasmOrg/REDasm.svg?branch=master)](https://travis-ci.org/REDasmOrg/REDasm) 
 
 |          | Version |
