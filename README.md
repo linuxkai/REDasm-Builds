@@ -3,7 +3,7 @@
 |          | Version |
 |---------:|:--------|
 |   GCC    | 7.x     |
-|   Qt     | 5.11     |
+|   Qt     | 5.9 LTS |
 
 ## Windows Version [![Windows Status](https://ci.appveyor.com/api/projects/status/github/redasmorg/redasm?svg=true)](https://ci.appveyor.com/project/Dax89/redasm)
 
